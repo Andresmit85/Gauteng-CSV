@@ -1,0 +1,585 @@
+Structure Number,Structure Name,Asset Class,Structure Type,Inventory Date,Section No.,Road No.,km,Total Length,Total Width,No of Spans,Bridge Type,Construction Date
+D101_01N_B2705,D101 over Crocodile River,Bridge,Bridge,2012/10/02,01N,D101,1.70,77.60,12.00,3,Arch,1970/01/02
+D1017_01N_B1443,D1017-03,Bridge,Bridge,2012/10/10,01N,D1017,3.60,20.80,12.00,5,Simply supported,1960/01/02
+D1017_01N_B2413,D1017-02,Bridge,Bridge,2012/10/10,01N,D1017,8.00,10.50,11.80,3,Continous and simply supported,
+D1027_01N_B1205,Cedar Road (D1027) over Klein Jukskei River,Bridge,Bridge,2012/11/09,01N,D1027,7.10,21.70,12.30,1,Simply supported,
+D1113_01N_B4324,D1113-01,Bridge,Bridge,2012/10/09,01N,D1113,2.70,34.00,12.50,4,Simply supported,
+D1113_01N_B4325,D1113-02,Bridge,Bridge,2012/10/09,01N,D1113,5.40,16.80,13.00,2,Simply supported,
+D1132_01N_B2808,unknown,Bridge,Bridge,2012/10/26,01N,D1132,2.00,14.00,12.20,2,Simply supported,1969/01/02
+D1188_01N_B4201,unknown,Bridge,Bridge,2012/10/23,01N,D1188,5.20,49.50,12.50,4,Continuous,1980/01/02
+D1215_01N_B3265,Koesterfontein Bridge 3265,Bridge,Bridge,2012/10/10,01N,D1215,8.20,16.00,12.50,1,Simply supported,
+D1240_01N_B1710,Road D1240 over Klipriver,Bridge,Bridge,2012/10/10,01N,D1240,3.00,68.60,12.60,7,Simply supported,
+D1240_01N_B3367,Road D1240 over rail,Bridge,Bridge,2012/10/10,01N,D1240,1.00,50.40,12.00,5,Simply supported,
+D1240_01N_B3403,Road D1240 over river,Bridge,Bridge,2012/10/08,01N,D1240,10.00,16.50,11.60,2,Continuous,
+D1240_01N_B4484,Rail over Road D1240 ,Bridge,Bridge,2012/10/10,01N,D1240,1.50,14.70,11.00,1,Continuous,1985/01/02
+D1316_01N_B1564,D1316 over Osspruit,Bridge,Bridge,2012/10/09,,D1316,,32.00,12.40,3,Continuous,
+D1316_01N_B4443,D1316 over rail,Bridge,Bridge,2012/10/23,01N,D1316,17.80,27.00,12.94,3,Continuous,1983/01/02
+D1321_01N_B4388,Road D1321 over canal,Bridge,Bridge,2012/10/04,01N,D1321,1.00,15.70,13.05,1,Continuous,1982/01/02
+D1321_01N_B483,Road D1321 over river,Bridge,Bridge,2012/10/04,01N,D1321,2.00,27.70,5.20,4,Simply supported,
+D1322_01N_B3161,D1322 over R.W.B. Pipes,Bridge,Bridge,2000/01/01,,D1322,,27.70,17.20,1,Simply supported,
+D1333_01N_B1444,1444 over Boekenhoutspruit,Bridge,Bridge,2012/11/08,01N,D1333,4.75,24.30,8.50,3,Simply supported,
+D1386_01N_B2397,Roodeplaat River Bridge,Bridge,Bridge,2012/10/25,01N,D1386,14.40,18.00,15.40,1,Simply supported,1968/01/02
+D1386_01N_B2398,Pienaars River Bridge,Bridge,Bridge,2012/10/25,01N,D1386,13.40,41.70,11.90,3,Simply supported,1968/01/02
+D1386_01N_B2470,Krokodil River Bridge,Bridge,Bridge,2012/10/25,01N,D1386,23.30,18.00,13.50,1,Simply supported,1966/01/02
+D1386_01N_B2475,Boekenhoutskloof River Bridge,Bridge,Bridge,2012/10/25,01N,D1386,25.60,15.20,12.20,1,Simply supported,1966/01/02
+D1386_01N_B4173,Rail Bridge,Bridge,Bridge,2012/10/25,01N,D1386,14.50,49.00,13.60,4,Continuous,
+D1386_01N_B4855,Moreleta River Bridge 3,Bridge,Bridge,2012/10/26,01N,D1386,1.80,53.20,13.90,3,Simply supported,
+D1463_01N_B2729,Road D1463 over rail,Bridge,Bridge,2012/10/09,01N,D1463,9.00,25.60,12.00,3,Simply supported,1969/01/02
+D1463_01N_B2807,Road D1463 over river,Bridge,Bridge,2012/10/09,01N,D1463,0.15,16.20,12.70,1,Continuous,
+D1496_01N_B3839,Driefontein Bridge 3839,Bridge,Bridge,2012/10/02,01N,D1496,1.00,32.70,11.00,1,Cellular,
+D1520_01N_B1719,D1520-03,Bridge,Bridge,2012/10/17,01N,D1520,15.83,13.50,14.30,1,Simply supported,
+D1676_01N_B1607,Hartbeesfontein Bridge 1607,Bridge,Bridge,2012/10/03,01N,D1676,3.60,22.30,9.30,2,Simply supported,
+D1683_01N_B4017,Road over Blesbok River Bridge outside Nigel,Bridge,Bridge,2012/10/08,01N,D1683,1.00,67.85,13.57,5,Simply supported,1985/01/02
+D1691_01N_B2540,Vlakplass Bridge 2540,Bridge,Bridge,2012/10/10,01N,D1691,1.50,11.30,14.10,1,Simply supported,1969/01/02
+D1691_01N_B2544,Elandsvlei Bridge 2544,Bridge,Bridge,2012/10/10,01N,D1691,3.60,14.80,12.40,2,Simply supported,
+D1693_01N_B4434,RAIL BRIDGE,Bridge,Bridge,2012/11/28,01N,D1693,0.80,31.00,10.55,3,Simply supported,1983/01/02
+D1780_01N_B1425,Bridge over the Blesbok River,Bridge,Bridge,2012/10/09,01N,D1780,3.10,48.85,12.30,6,Simply supported,1972/01/02
+D1780_01N_B3612,Tribute to Blesbok River,Bridge,Bridge,2012/10/09,01N,D1780,2.70,17.60,12.35,2,Simply supported,1973/01/02
+D1794_01N_B3703,Hekpoort Bridge 3703,Bridge,Bridge,2012/10/04,01N,D1794,0.30,31.00,12.40,3,Simply supported,1976/01/02
+D1814_01N_B3042,D1814 over Rail,Bridge,Bridge,2012/10/26,01N,D1814,4.25,29.00,12.20,3,Simply supported,1975/01/02
+D1884_01N_B1663,Road D1884 over suikerbos river,Bridge,Bridge,2012/10/04,01N,D1884,6.00,48.00,8.30,3,Simply supported,
+D1919_01N_B2112,2112 over Apies River,Bridge,Bridge,2012/11/06,01N,D1919,8.60,96.00,9.00,6,Simply supported,
+D1919_01N_B3200,3200 over Apies River,Bridge,Bridge,2012/11/07,01N,D1919,3.20,85.70,16.70,3,Continuous,1979/01/02
+D1919_01N_B3372,3372 over Petronella to Spykerras Rail,Bridge,Bridge,2012/11/06,01N,D1919,10.20,37.00,14.40,3,Continuous,1979/01/02
+D1931_01N_B3373,3373 over Kaalplaas River,Bridge,Bridge,2012/11/22,01N,D1931,2.21,60.70,14.32,5,Continuous,1974/01/02
+D1986_01N_IDB1427,Road D1986 over Suikerbosrand river,Bridge,Bridge,2012/10/01,01N,D1986,1.00,70.65,8.30,6,Simply supported,
+D2150_01N_B2778,-,Bridge,Bridge,2012/10/29,01N,D2150,4.10,13.90,9.09,1,Simply supported,
+D2204_01N_B5227,D2204-01,Bridge,Bridge,2012/10/30,01N,D2204,15.86,33.60,13.90,3,Simply supported,
+D2205_01N_B5413,Road over Rail Leondale Rd  (K123),Bridge,Bridge,2012/10/17,01N,D2205,2.10,40.10,16.25,3,Simply supported,
+D2205_01N_B5414,Road over Rail Leondale Road near Rondebult Station,Bridge,Bridge,2012/10/17,01N,D2205,2.54,24.30,16.25,2,Continuous,
+D2266_01N_B4158,4158 over Wildebeesthoek to Lynross rail,Bridge,Bridge,2012/10/17,01N,D2266,1.52,24.40,12.70,1,Simply supported,1980/01/02
+D2377_01N_B1106,Bronkhorstspruit River,Bridge,Bridge,2012/09/28,01N,D2377,0.50,29.30,11.70,5,Simply supported,
+D25_01N_B1161,Malan River Bridge,Bridge,Bridge,2012/10/24,01N,D25,13.00,15.50,8.00,3,Simply supported,
+D25_01N_B2677,Elands River Bridge,Bridge,Bridge,2012/10/24,01N,D25,8.70,24.80,11.90,3,Simply supported,1968/01/02
+D2666_01N_B1399,Rail over Road at Jameson Park,Bridge,Bridge,2012/10/11,01N,D2666,1.00,8.94,13.40,1,Simply supported,1932/01/02
+D2666_01N_B434,River Bridge over Tributary of the Blesbok River near Jameson Park,Bridge,Bridge,2012/10/11,01N,D2666,1.30,20.20,9.30,3,Simply supported,1968/01/02
+D2757_01N_B2276,NB031 over Kekane to Spykerras Rail,Bridge,Bridge,2012/11/07,01N,D2757,0.32,29.30,14.24,3,Simply supported,
+D2757_01N_B2576,2576 over Apies River,Bridge,Bridge,2012/11/07,01N,D2757,0.67,97.10,13.46,6,Simply supported,1968/01/02
+D2758_01N_B3998,3998 over Akasiaboom to Labeleng Rail,Bridge,Bridge,2012/10/22,01N,D2758,7.35,53.80,12.78,5,Continuous,
+D2761_01N_B4442,unknown,Bridge,Bridge,2012/10/23,01N,D2761,5.50,62.00,13.40,3,Simply supported,1983/01/02
+D2762_01N_B1539,D2762 (M6) over tributory of Pienaars River,Bridge,Bridge,2012/11/23,01N,D2762,14.00,16.60,12.30,2,Simply supported,1970/01/02
+D31_01N_B4218,NB023 over Brits to Pienaarspoort Rail,Bridge,Bridge,2012/10/23,01N,D31,3.61,33.70,13.26,3,Simply supported,
+D318_01N_B1501,NB022 over Metsi Metsuane River,Bridge,Bridge,2012/10/22,01N,D318,11.92,6.90,16.36,1,Simply supported,
+D318_01N_B1502,NB021 over Kaalplaas River,Bridge,Bridge,2012/10/22,01N,D318,8.66,13.50,16.36,2,Simply supported,
+D318_01N_B4344,4344 Ga-Rankuwa to Pienaarspoort Rail,Bridge,Bridge,2012/10/22,01N,D318,4.03,29.80,13.55,3,Simply supported,1980/01/02
+D327_01N_B2003,NB041 over Pienaars River,Bridge,Bridge,2012/11/22,01N,D327,10.32,32.60,8.84,2,Simply supported,
+D359_01N_B4390,Road D359 over canal,Bridge,Bridge,2012/10/04,01N,D359,7.00,15.70,10.05,1,Continuous,1982/01/02
+D36_01N_B1442,Edendale River Bridge,Bridge,Bridge,2012/11/07,01N,D36,5.80,29.00,12.20,2,Continuous,1974/01/02
+D36_01N_B4174,Rail Bridge,Bridge,Bridge,2012/10/26,01N,D36,5.30,34.40,10.30,3,Simply supported,
+D37_01N_B1625,Pienaars River Bridge,Bridge,Bridge,2012/11/07,01N,D37,1.75,48.00,12.20,3,Continuous,1974/01/02
+D37_01N_B1691,Roodeplaat River Bridge,Bridge,Bridge,2012/11/07,01N,D37,10.10,32.00,12.20,4,Continuous,1974/01/02
+D37_01N_B4175,Rail Bridge,Bridge,Bridge,2012/11/07,01N,D37,2.20,44.50,10.00,3,Simply supported,
+D374_01N_B4350,ZANDSPRUIT PEDESTRIAN BRIDGE,Bridge,Bridge,2012/11/13,01N,D374,8.10,40.40,2.50,2,Continous and simply supported,
+D374_01N_B635,Elandsdrif Bridge 635,Bridge,Bridge,2012/10/02,01N,D374,4.40,50.30,10.80,3,Continuous,
+D377_01N_B2205,D377-01,Bridge,Bridge,2012/10/10,01N,D377,15.50,29.20,9.35,3,Continous and simply supported,1966/01/02
+D377_01N_B3698,D377-04,Bridge,Bridge,2012/10/11,01N,D377,33.00,19.50,12.50,3,Simply supported,
+D377_01N_B3699,D377-03,Bridge,Bridge,2012/10/10,01N,D377,27.00,44.20,12.70,7,Simply supported,
+D400_01N_B2089,Weltervreden Bridge 2089,Bridge,Bridge,2012/10/04,01N,D400,29.00,12.00,12.20,2,Continuous,
+D401_01N_B1669,Hartbeesfontein Bridge 1669,Bridge,Bridge,2012/10/03,01N,D401,5.60,24.90,8.50,3,Simply supported,
+D401_01N_B729,Hartbeesfontein Bridge 729,Bridge,Bridge,2012/10/03,01N,D401,1.30,38.50,5.80,7,Simply supported,
+D434_01N_B2007,2007 over Apies River,Bridge,Bridge,2012/11/22,01N,D434,0.45,16.50,9.58,1,Simply supported,1963/01/02
+D473_01N_B3123,-,Bridge,Bridge,2012/10/28,01N,D473,1.50,13.60,22.20,1,Simply supported,
+D473_01N_B3124,-,Bridge,Bridge,2012/10/28,01N,D473,1.90,37.60,12.40,4,Simply supported,
+D473_01N_B3453,-,Bridge,Bridge,2012/10/28,01N,D473,5.30,10.40,12.10,2,Simply supported,
+D478_01N_B2294,Road D478 over river,Bridge,Bridge,2012/10/04,01N,D478,1.00,20.00,10.00,2,Simply supported,1966/01/02
+D48_01N_B1373,1373 over Boekenhoutspruit,Bridge,Bridge,2012/11/08,01N,D48,12.02,26.40,13.45,4,Simply supported,1984/01/02
+D48_01N_B4515,4515 over Pienaars River,Bridge,Bridge,2012/11/08,01N,D48,3.93,49.00,13.05,3,Simply supported,1982/01/02
+D48_01N_B4516,4516 over Tributary to Pienaars River,Bridge,Bridge,2012/11/08,01N,D48,5.14,14.40,13.35,2,Simply supported,1982/01/02
+D48_01N_B4517,NB033 over Tributary to Boekenhoutspruit,Bridge,Bridge,2012/11/08,01N,D48,7.58,26.00,13.45,3,Simply supported,
+D483_01N_B2985,Rail Bridge 2985 on Route 19.5,Bridge,Bridge,2012/09/27,01N,D483,19.50,26.20,12.30,2,Continous and simply supported,
+D51_01N_B4725,Isando Road Pedestrian Bridge,Bridge,Bridge,2012/10/11,01N,D51,0.10,226.00,2.70,4,Simply supported,1987/01/02
+D540_01N_B3146,Kromdraai Bridge 3146,Bridge,Bridge,2012/10/03,01N,D540,3.20,18.80,12.40,1,Simply supported,
+D540_01N_B587,D540 over Bloubankspruit (Kromdraai Bridge),Bridge,Bridge,2012/10/02,01N,D540,6.50,15.80,5.40,3,Simply supported,
+D567_01N_B4846,River Bridge,Bridge,Bridge,2012/10/24,01N,D567,38.36,9.90,15.30,1,Simply supported,1985/01/02
+D57_01N_B1111,Rail over road D57 At km 1.0 over,Bridge,Bridge,2012/10/09,01N,D57,1.00,30.00,25.50,1,Plate girder,
+D57_01N_B4199,Road D57 over blesbok river at km 3.0,Bridge,Bridge,2012/10/09,01N,D57,3.00,60.80,18.40,2,Simply supported,
+D604_01N_IDB0945,"NB024 over Mabopane to Soshanguve Rail, M17 and Access Road",Bridge,Bridge,2012/10/23,01N,D604,3.92,145.90,13.06,8,Continous and simply supported,
+D604_01N_IDB1954,"NB025 over Mabopane to Soshanguve Rail, M17 and Access Rd",Bridge,Bridge,2012/11/05,01N,D604,3.92,145.90,12.10,8,Continous and simply supported,
+D61_01N_IDB1654, D61 over rail at Jameson Park,Bridge,Bridge,2012/09/28,,D61,,21.40,7.40,5,Simply supported,
+D631_01N_B4092,SWAVELPOORT RIVER BRIDGE,Bridge,Bridge,2012/11/23,01N,D631,3.00,25.40,10.80,3,Simply supported,1978/01/02
+D631_01N_B4093,STEEKRIET RIVER BRIDGE,Bridge,Bridge,2012/11/23,01N,D631,4.10,8.40,10.80,1,Simply supported,
+D631_01N_B4094,PIENAARS RIBVER BRIDGE,Bridge,Bridge,2012/11/23,01N,D631,10.40,23.47,12.20,3,Simply supported,1977/01/02
+D631_01N_B4095,BOSCHKOP RIVER BRIDGE,Bridge,Bridge,2012/11/23,01N,D631,12.50,27.15,11.40,3,Simply supported,1979/01/02
+D631_01N_B4435,RAILWAY BRIDGE,Bridge,Bridge,2012/11/23,01N,D631,17.00,50.82,8.24,3,Continuous,1983/01/02
+D64_01N_B1316,Road D64 over rail,Bridge,Bridge,2012/10/08,01N,D64,1.00,19.20,13.75,1,Continuous,
+D64_01N_B1927,D64 over rail,Bridge,Bridge,2012/10/10,01N,D64,23.20,27.00,13.00,3,Simply supported,1967/01/02
+D64_01N_B3922,Road D64 over river,Bridge,Bridge,2012/10/08,01N,D64,11.00,16.40,11.00,2,Simply supported,
+D64_01N_IDB1472,Road D64 over river,Bridge,Bridge,2012/10/08,01N,D64,1.00,80.50,11.75,5,Simply supported,
+D64_01N_IDB1476,D64 over Rietspruit ,Bridge,Bridge,2012/10/08,01N,D64,1.00,58.00,12.40,5,Simply supported,
+D64_01N_IDB2069,D64 over Klip River,Bridge,Bridge,2012/10/10,01N,D64,22.80,39.20,16.90,4,Simply supported,
+D67_01N_B3527,Rail over road D67 ,Bridge,Bridge,2012/10/02,01N,D67,1.00,8.40,6.20,1,Simply supported,
+D67_01N_IDB1433,Road d67 over river,Bridge,Bridge,2012/10/02,01N,D67,1.00,39.60,12.10,3,Simply supported,1971/01/02
+D67_01N_IDB1464,Road D67 over Rietspruit,Bridge,Bridge,2012/10/08,01N,D67,1.00,47.00,11.85,5,Simply supported,
+D671_01N_B3856,D671-01,Bridge,Bridge,2012/10/11,01N,D671,0.40,31.40,12.50,2,Simply supported,
+D687_01N_B2293,Bridge over Suikerbosrand River,Bridge,Bridge,2012/10/04,01N,D687,18.00,32.90,11.75,5,Simply supported,1976/01/02
+D713_01N_B2816,Elands River Bridge,Bridge,Bridge,2012/10/23,01N,D713,18.80,24.70,13.50,3,Simply supported,
+D713_01N_IDB0633,Railway Bridge,Bridge,Bridge,2012/09/26,01N,D713,20.00,8.00,7.20,4,Continuous,
+D734_01N_B2764,2764 over Pienaars River,Bridge,Bridge,2012/11/08,01N,D734,3.10,49.70,12.40,3,Simply supported,1970/01/02
+D755_01N_B2114,Hennops River Bridge,Bridge,Bridge,2012/10/31,01N,D755,1.80,67.00,11.28,3,Continous and simply supported,
+D755_01N_IDB2484,Hennops River Bridge,Bridge,Bridge,2012/10/31,01N,D755,3.30,41.65,10.80,3,Simply supported,
+D817_01N_B4514,Road D817 over rail,Bridge,Bridge,2012/10/08,01N,D817,3.00,37.50,13.35,3,Simply supported,1985/01/02
+D83_01N_B1148,D83 (R54) over Grootspruit,Bridge,Bridge,2012/10/03,01N,D83,40.00,23.80,12.60,3,Simply supported,
+D83_01N_B2120,D83 (R54) over Suikerbosrant  River,Bridge,Bridge,2012/10/04,01N,D83,6.00,80.50,8.80,5,Simply supported,1964/01/02
+D83_01N_B2751,Road D83 over river,Bridge,Bridge,2012/10/02,01N,D83,1.00,20.00,12.10,1,Continuous,1969/01/02
+D871_01N_B669,Road D871 over river,Bridge,Bridge,2012/10/02,01N,D871,1.00,29.00,5.50,8,Simply supported,
+D878_01N_B1138,Road D878 over river,Bridge,Bridge,2012/10/09,01N,D878,1.00,29.60,8.80,3,Simply supported,
+D93_01N_B4634,D93-01,Bridge,Bridge,2012/10/30,01N,D93,12.20,7.40,12.80,1,Frame,1982/01/02
+D94_01N_IDB1770,D94-02,Bridge,Bridge,2012/10/17,01N,D94,0.33,33.00,10.00,3,Simply supported,
+D96_01N_B1314,Mattys Johannes Redelingshuys Bridge 1314,Bridge,Bridge,2012/10/04,01N,D96,10.20,86.00,8.60,27,Arch,
+D960_01N_B901,Bridge 901 over the Wilge River,Bridge,Bridge,2012/09/25,01N,D960,22.80,26.00,5.10,4,Arch,
+D962_01N_B3602,D962-01,Bridge,Bridge,2012/10/11,01N,D962,1.40,23.90,12.60,3,Simply supported,1973/01/02
+D962_01N_B3603,D962-02,Bridge,Bridge,2012/10/16,01N,D962,20.95,8.40,12.90,1,Simply supported,
+D962_01N_B3604,D962-03,Bridge,Bridge,2012/10/16,01N,D962,7.80,13.10,12.80,2,Simply supported,
+D98_01N_B1376,Zeekonhoek Bridge 1376,Bridge,Bridge,2012/10/09,01N,D98,4.40,22.60,8.60,2,Simply supported,
+K103_01N_B4721,Pedestrian bridge at Waterkloof,Bridge,Bridge,2012/10/16,01N,K103,2.10,43.30,2.60,2,Continuous,
+K103_01N_B4866A,Hennops River Bridge 1,Bridge,Bridge,2012/10/17,01N,K103,4.36,26.80,13.70,2,Continuous,1986/01/02
+K103_01N_B4867A,Hennops River Bridge 2,Bridge,Bridge,2012/10/17,01N,K103,4.43,13.50,14.30,1,Simply supported,1986/01/02
+K103_01N_B748A,Bridge A on Route K103 EBC,Bridge,Bridge,2012/10/17,01N,K103,2.50,138.00,15.00,6,Continuous,
+K103_01N_B748B,Bridge B on Route K103 WBC,Bridge,Bridge,2012/10/17,01N,K103,2.50,138.00,15.00,6,Simply supported,
+K109_01N_IDB1884,uknown,Bridge,Bridge,2012/10/24,01N,K109,0.50,36.00,13.30,3,Simply supported,
+K111_01N_IDB2149,IVORY PARK BRIDGE 1,Bridge,Bridge,2012/11/07,01N,K111,2.20,9.00,14.00,1,Simply supported,
+K146_01N_B5524A,K146 over river,Bridge,Bridge,2012/10/08,01N,D64,4.00,43.50,14.75,5,Continuous,2001/01/02
+K146_01N_B5525A,K164 over rail,Bridge,Bridge,2012/10/08,01N,D64,2.00,18.00,16.95,1,Continuous,2001/01/02
+K146_01N_IDB1470,K146 over rail and P46/1,Bridge,Bridge,2012/10/08,01N,D64,1.00,33.40,11.55,3,Simply supported,
+K175_01N_B5102A,Honde River Bridge,Bridge,Bridge,2012/09/28,01N,K175,20.20,21.00,20.00,4,Continuous,
+K175_01N_B5103A,Railway Bridge on Route K175,Bridge,Bridge,2012/09/27,01N,K175,21.50,32.00,12.80,3,Simply supported,
+K175_01N_B5104A,River Bridge on route K175,Bridge,Bridge,2012/09/27,01N,K175,23.90,15.80,15.00,1,Simply supported,
+K198_01N_B5291,K198-01,Bridge,Bridge,2012/10/31,01N,K198,23.52,42.00,7.00,3,Continous and simply supported,
+K198_01N_B5292A,K198-02,Bridge,Bridge,2012/10/31,01N,K198,28.20,45.60,13.60,2,Simply supported,
+K27_01N_B5144A,K27 over Hospital Road,Bridge,Bridge,2012/10/17,01N,K27,55.30,38.50,13.10,3,Continous and simply supported,
+K27_01N_B5144B,K27 over Hospital Road ,Bridge,Bridge,2012/10/17,01N,K27,55.66,33.00,15.00,3,Continous and simply supported,
+K27_01N_B5145A,K27 over rail,Bridge,Bridge,2012/10/17,01N,K27,55.60,33.00,15.00,3,Simply supported,
+K27_01N_IDB1796,R562 (K27) PEDESTRIAN BRIDGE,Bridge,Bridge,2012/10/17,01N,K27,52.62,227.32,2.50,2,Simply supported,2008/01/02
+K4_01N_B4881,4881 over Labeleng to Akasiaboom Rail,Bridge,Bridge,2012/10/23,01N,K4,0.42,35.20,13.92,3,Simply supported,
+K54_01N_B5186,River Bridge,Bridge,Bridge,2012/11/07,01N,K54,0.40,24.20,13.80,2,Continuous,
+K69_01N_B4629,RIVER BRIDGE,Bridge,Bridge,2012/11/28,01N,K69,37.80,14.20,13.30,1,Simply supported,1984/01/02
+K69_01N_B5356A,Rail Bridge A,Bridge,Bridge,2012/11/06,01N,K69,4.20,14.80,11.17,1,Continuous,
+K69_01N_B5356B,Rail Bridge B,Bridge,Bridge,2012/11/06,01N,K69,4.20,30.60,13.20,3,Simply supported,
+K69_01N_B5358,K69 (M10) over Pienaars River,Bridge,Bridge,2012/11/06,01N,K69,0.80,48.20,13.00,3,Continuous,
+K73_01N_B3763A,Sand Spruit,Bridge,Bridge,2012/11/19,01N,K73,0.20,54.00,15.00,3,Frame,
+K73_01N_B3763B,Sand Spruit,Bridge,Bridge,2012/11/19,01N,K73,0.20,54.00,11.30,3,Frame,2010/01/02
+K8_01N_B2409,2409 over Wilderbeesthoek to Lynross Rail,Bridge,Bridge,2012/10/17,01N,K8,15.60,30.00,15.00,2,Simply supported,1973/01/02
+K8_01N_B2953,2953 over Rosslyn Rail,Bridge,Bridge,2012/10/17,01N,K8,10.83,15.70,16.60,3,Continuous,1972/01/02
+K8_01N_B4056A,4056A over Akasiaboom to Winternest Rail,Bridge,Bridge,2012/10/17,01N,K8,9.24,42.10,13.33,3,Continuous,1981/01/02
+K8_01N_B4056B,4056B over Akasiaboom to Winternest Rail,Bridge,Bridge,2012/10/17,01N,K8,9.24,42.10,13.33,3,Continuous,1981/01/02
+K8_01N_B4664A,4664(A) over Pretoria North to Meersig Rail,Bridge,Bridge,2012/10/16,01N,K8,0.88,46.20,14.15,4,Simply supported,
+K8_01N_B4664B,4664(B) Pretoria North to Meersig Rail,Bridge,Bridge,2012/10/16,01N,K8,0.88,46.20,14.05,4,Simply supported,
+K8_01N_B4725A,4725(A) over Apies River,Bridge,Bridge,2012/10/16,01N,K8,0.45,55.60,14.05,3,Cantilever with drop in spans,
+K8_01N_B4725B,4725(B) over Apies River,Bridge,Bridge,2012/10/16,01N,K8,0.45,55.60,13.85,3,Cantilever with drop in spans,
+P1_01_B4156,Road P1-1 over R.W.B. Pipes,Bridge,Bridge,2000/01/01,1,P1,,9.25,35.60,1,,
+P1_01N_B4332,Rifle Range Road (M38) over the M1,Bridge,Bridge,2012/10/26,01N,P1,1.00,177.00,25.60,4,Continuous,1985/01/02
+P1_01N_B4334,Columbine Ave,Bridge,Bridge,2012/10/23,01N,P1,47.40,56.00,33.40,2,Continuous,
+P1_02N_B1015,P1-2 Hennops River Southbound Carriageway,Bridge,Bridge,2012/10/17,02N,P1,11.90,36.00,11.10,3,Continuous,
+P1_02N_B2226,South Bound over P158/1,Bridge,Bridge,2012/10/19,02N,P1,4.50,121.20,12.50,4,Continuous,1966/01/02
+P1_02N_B3401A,South Road Underpass,Bridge,Bridge,2012/11/21,02N,P1,4.20,39.10,13.10,3,Continuous,
+P1_02N_B3808,"Link ""Y"" over P1-2",Bridge,Bridge,2012/10/19,02N,P1,6.60,130.00,12.10,4,Continuous,1986/01/02
+P1_02N_B3809A,East Bound,Bridge,Bridge,2012/10/19,02N,P1,6.08,78.50,13.30,4,Continuous,1986/01/02
+P1_02N_B3809B,M7 West Bound,Bridge,Bridge,2012/10/19,02N,P1,6.07,78.50,13.30,4,Continuous,1986/01/02
+P1_02N_B3810,"Link ""V"" over Road P1-2",Bridge,Bridge,2012/10/19,02N,P1,5.80,141.10,12.10,4,Continuous,1986/01/02
+P1_02N_B5008,Bridge on Route P1-2 (Road over P1-2),Bridge,Bridge,2012/10/19,02N,P1,3.00,190.70,7.50,5,Continuous,1987/01/02
+P1_02N_B5497,SAMARAND ROAD BRIDGE (K101),Bridge,Bridge,2012/11/06,02N,P1,23.80,50.00,17.40,4,Continous and simply supported,
+P1_02N_B59,Hennops River,Bridge,Bridge,2012/10/17,02N,P1,11.93,23.20,7.10,1,Truss,1901/01/02
+P1_02N_B90,JUSKEI RIVER BRIDGE,Bridge,Bridge,2012/11/06,02N,P1,35.45,40.00,10.00,5,Continous and simply supported,
+P1_03N_B1879,1879 over Tributary to Apies River,Bridge,Bridge,2012/11/06,03N,P1,13.98,24.80,13.96,3,Simply supported,1959/01/02
+P1_03N_B3201,3201 D1919 over P1-3,Bridge,Bridge,2012/11/06,03N,P1,16.62,85.00,17.00,5,Simply supported,1979/01/02
+P1_03N_B4171,4171 Rooival to Pienaarspoort Rail over P1-3,Bridge,Bridge,2012/11/06,03N,P1,10.38,187.20,10.60,4,Continuous,1981/01/02
+P1_03N_B4172,4172 Brits to Pienaarspoort rail over P1-3,Bridge,Bridge,2012/11/06,03N,P1,9.04,117.10,14.90,5,Continuous,1980/01/02
+P101_01N_B1505,Road over Rail Bridge near Endicott on the R42,Bridge,Bridge,2012/10/03,01N,P101,18.30,11.60,9.10,2,Simply supported,
+P101_01N_IDB1612,Pipe Bridge over road near Nigel on R42,Bridge,Bridge,2012/10/17,01N,P101,19.80,47.40,2.45,1,Frame,
+P103_01N_B2512,KAYA SANDS RIVER BRIDGE ,Bridge,Bridge,2012/11/13,01N,P103,12.05,27.50,14.50,1,Continous and simply supported,
+P103_01N_B2733,KLEIN JUSKEI RIVER BRIDGE ,Bridge,Bridge,2012/11/13,01N,P103,7.10,32.00,29.60,2,Continous and simply supported,2010/01/02
+P103_02N_B2118,Lindley Bridge 2118,Bridge,Bridge,2012/10/02,02N,P103,5.70,58.00,10.30,3,Simply supported,1966/01/02
+P103_02N_B2221,Renosterspruit Bridge 2221,Bridge,Bridge,2012/10/02,02N,P103,12.20,17.10,11.90,1,Simply supported,1966/01/02
+P103_02N_IDB1908,LINDLEY FARM BRIDGE B1,Bridge,Bridge,2012/11/01,02N,P103,8.60,10.00,20.00,2,Simply supported,
+P111_01N_B5111,Rietfontein Bridge 5111,Bridge,Bridge,2012/10/11,01N,P111,0.70,87.90,6.50,4,Simply supported,
+P119_01N_B2401,Edenvale Road Bridge,Bridge,Bridge,2012/11/05,01N,P119,1.40,40.80,44.00,2,Simply supported,1969/01/02
+P119_01N_B2402A,Shelton Avenue Bridge A,Bridge,Bridge,2012/11/05,01N,P119,4.60,37.80,19.50,3,Simply supported,
+P119_01N_B2402B,Shelton Avenue Bridge B,Bridge,Bridge,2012/11/05,01N,P119,4.60,37.80,19.50,3,Simply supported,
+P119_01N_B2403,Barbara Road Overpass Bridge,Bridge,Bridge,2012/11/15,01N,P119,5.20,64.40,33.50,4,Continuous,
+P119_01N_B2404,Isando Road Bridge,Bridge,Bridge,2012/11/05,01N,P119,5.60,50.00,39.30,2,Simply supported,1969/01/02
+P119_01N_B5537,Pedestrian Bridge,Bridge,Bridge,2012/11/20,01N,P119,7.75,65.30,2.60,3,Simply supported,2002/01/02
+P122_01N_B1152,Sesmyl River Bridge,Bridge,Bridge,2012/11/06,01N,P122,11.00,16.00,9.80,1,Frame,
+P123_01N_B1343,Hartbeesfontein Bridge 1343,Bridge,Bridge,2012/10/03,01N,P123,2.50,15.00,8.80,2,Simply supported,
+P123_01N_B950,Hekpoort Bridge 950,Bridge,Bridge,2012/10/04,01N,P123,8.90,39.70,8.50,6,Simply supported,
+P126_01N_B1183,Hendrik Potgieter Rd (P126-1) over Crocodile River,Bridge,Bridge,2012/11/10,01N,P126,16.20,16.20,15.40,2,Simply supported,
+P126_01N_B1670,Rietspruit Bridge 2,Bridge,Bridge,2012/01/18,13E,N014,97.44,25.70,13.35,3,Simply supported,2002/07/01
+P126_01N_B1953,Honingklip Spruit,Bridge,Bridge,2012/01/18,13E,N014,104.69,10.10,15.10,2,Simply supported,2002/07/01
+P126_01N_B2073,Rietspruit Bridge 1,Bridge,Bridge,2012/01/18,13E,N014,93.95,11.10,15.60,2,Simply supported,2002/07/01
+P126_01N_B4170,Hendrik Potgieter Rd (P126/1) under JG Strijdom Rd (M69),Bridge,Bridge,2012/11/02,01N,P126,3.50,69.20,20.40,4,Continuous,1979/01/02
+P126_01N_B5409A,Constantia Park Underpass,Bridge,Bridge,2012/11/08,01N,P126,3.10,23.00,13.00,1,Simply supported,
+P126_01N_B5409B,Constantia Park Underpass,Bridge,Bridge,2012/11/08,01N,P126,3.10,23.00,13.00,1,Simply supported,
+P126_01N_B5410A,14th Ave Underpass,Bridge,Bridge,2012/11/08,01N,P126,3.00,45.30,13.00,2,Continuous,
+P126_01N_B5410B,14th Avenue Underpass,Bridge,Bridge,2012/11/08,01N,P126,3.00,45.30,13.00,2,Continuous,
+P126_01N_B5411A,Constantia Boulevard Underpass,Bridge,Bridge,2012/11/08,01N,P126,2.80,23.10,13.00,1,Simply supported,
+P126_01N_B5411B,Constantia Boulevard Underpass,Bridge,Bridge,2012/11/08,01N,P126,2.80,23.10,13.00,1,Simply supported,
+P126_01N_B5454A,Hendrik Potgieter Road (P126-1) over Hillfox underpass,Bridge,Bridge,2012/11/01,01N,P126,4.10,26.50,13.00,1,Simply supported,1994/01/02
+P126_01N_B5454B,Hendrik Potgieter Road (P126-1) over Hillfox underpass,Bridge,Bridge,2012/11/01,01N,P126,4.10,26.30,12.90,1,Simply supported,1994/01/02
+P126_01N_B5548A,Hendrik Potgieter Rd (P126-1) under Christiaan De Wet Rd (P139-1),Bridge,Bridge,2012/11/01,01N,P126,6.10,49.10,16.90,2,Continuous,
+P126_01N_B5548B,Hendrik Potgieter Rd (P126-1) under Christiaan De Wet Rd (P139-1),Bridge,Bridge,2012/11/01,01N,P126,6.10,49.10,14.20,2,Continuous,
+P140_01N_B1741,Road over Rail R550 near Silos,Bridge,Bridge,2012/10/13,01N,P140,8.94,10.40,12.50,1,Simply supported,
+P140_01N_B4511,Rail over Road Diana Rd near Glenroy Station,Bridge,Bridge,2012/10/13,01N,P140,4.23,24.10,14.25,1,Simply supported,1985/01/02
+P140_01N_B4512,Rail over Road near Glenroy Station 2,Bridge,Bridge,2012/10/13,01N,P140,4.00,24.00,6.30,1,Simply supported,1985/01/02
+P155_01N_B3886A,P155/1 (R57) over Vaal River,Bridge,Bridge,2017/01/06,1,P155,,182.56,14.74,1,,
+P155_01N_B3886B,P155-1 (R57) over Vaal River,Bridge,Bridge,2000/01/01,,,,182.56,14.74,1,,
+P155_01N_B3960,-,Bridge,Bridge,2012/10/26,01N,P155,0.30,76.00,13.70,2,Continuous,
+P155_01N_B3961,-,Bridge,Bridge,2012/10/26,01N,P155,1.50,74.50,29.30,2,Continuous,
+P155_01N_IDB2051,-,Bridge,Bridge,2012/10/26,01N,P155,10.80,23.20,18.40,2,Simply supported,
+P155_1_IDB3000,P156/1 (R57) over William Nicol Street,Bridge,Bridge,2012/10/26,01N,P155,2.40,100.00,14.00,4,Continuous,
+P156_01_B3156A,Road P156-1 over R.W.B. Pipes,Bridge,Bridge,2000/01/01,1,P156,19.70,22.86,82.92,1,,1976/01/01
+P156_01_B3156B,Road P156-1 over R.W.B. Pipes,Bridge,Bridge,2000/01/01,1,P156,18.70,22.86,82.92,1,,1976/01/01
+P156_01_B3567,Road P156-1 over R.W.B. Pipes,Bridge,Bridge,2000/01/01,1,P156,9.40,10.61,88.46,1,,1977/01/01
+P156_01_B3568,Road P156-1 over R.W.B. Pipes,Bridge,Bridge,2000/01/01,1,P156,13.30,45.78,108.45,1,,1977/01/01
+P156_01N_B3061,-,Bridge,Bridge,2016/04/25,01N,P156,20.20,101.30,14.20,5,Simply supported,
+P156_01N_B3240A,-,Bridge,Bridge,2012/10/18,01N,P156,4.80,43.30,17.40,3,Continuous,
+P156_01N_B3240B,Mitchel Road,Bridge,Bridge,2012/10/18,01N,P156,4.80,43.30,17.40,3,Continuous,
+P156_01N_B3241,Burg Bridge,Bridge,Bridge,2012/10/18,01N,P156,5.80,70.70,13.90,2,Continuous,
+P156_01N_B3242,-,Bridge,Bridge,2012/10/18,01N,P156,7.10,76.80,33.80,2,Continuous,
+P156_01N_B3243,-,Bridge,Bridge,2012/10/18,01N,P156,10.10,70.80,13.90,2,Continuous,
+P156_01N_B3244,-,Bridge,Bridge,2012/10/18,01N,P156,11.00,70.80,13.40,2,Continuous,
+P156_01N_B3245A,-,Bridge,Bridge,2012/10/18,01N,P156,12.20,120.10,21.25,4,Continuous,
+P156_01N_B3245B,-,Bridge,Bridge,2012/10/18,01N,P156,12.20,120.50,20.40,4,Continuous,
+P156_01N_B3246A,-,Bridge,Bridge,2012/10/19,01N,P156,16.20,13.20,17.20,1,Simply supported,
+P156_01N_B3246B,-,Bridge,Bridge,2012/10/19,01N,P156,16.20,13.10,17.40,1,Simply supported,
+P156_01N_B3873,"Heidelberg Rd (M31, P4/1) Ramp to South Rand Rd west (P156/1)",Bridge,Bridge,2012/10/30,01N,P156,1.00,66.20,14.00,4,Continuous,1978/01/02
+P156_01N_B3874,"Ramp from Heidelberg Road (M31, P4/1) to South Rand Road (P156/1) crossing over Heidelberg Road",Bridge,Bridge,2012/10/30,01N,P156,1.00,56.10,14.00,3,Continuous,1978/01/02
+P156_01N_B530A,Klip River,Bridge,Bridge,2012/10/19,01N,P156,18.70,98.00,17.50,8,Continuous,
+P156_01N_B530B,-,Bridge,Bridge,2016/04/25,01N,P156,18.70,98.00,17.50,8,Continuous,
+P156_01N_B958A,-,Bridge,Bridge,2012/10/19,01N,P156,2.60,15.30,17.30,1,Simply supported,
+P156_01N_B958B,-,Bridge,Bridge,2012/10/19,01N,P156,2.60,15.30,17.30,1,Simply supported,
+P156_01N_BB1055,-,Bridge,Bridge,2012/10/19,01N,P156,2.60,15.30,28.20,1,Simply supported,
+P156_02_B3162,Road P156-2 over R.W.B. Pipes,Bridge,Bridge,2000/01/01,2,P156,12.80,17.63,126.77,1,,1973/01/01
+P156_02_B3750A,P156-2(RmpA) over R.W.B. Pipes,Bridge,Bridge,2000/01/01,2,P156,,14.54,25.24,1,,
+P156_02_B3750B,P156-2(RmpB) over R.W.B. Pipes,Bridge,Bridge,2000/01/01,2,P156,,17.58,36.02,1,,
+P156_02_B3770,Rd P156-2 over R.W.B. Pipes,Bridge,Bridge,2000/01/01,2,P156,31.28,8.37,90.09,1,,1981/01/01
+P156_02_B4623A,Road P156-2 over R.W.B. Pipes,Bridge,Bridge,2000/01/01,2,P156,,5.30,114.30,1,,
+P156_02_B4623B,Road P156-2 over R.W.B. Pipes,Bridge,Bridge,2000/01/01,2,P156,,5.30,32.40,1,,
+P156_02N_B3030,-,Bridge,Bridge,2012/10/21,02N,P156,18.80,87.60,16.00,4,Continuous,
+P156_02N_B3031A,-,Bridge,Bridge,2012/10/21,02N,P156,19.63,8.70,17.40,1,Simply supported,
+P156_02N_B3031B,-,Bridge,Bridge,2012/10/21,02N,P156,19.63,8.70,17.40,1,Simply supported,
+P156_02N_B3032,-,Bridge,Bridge,2012/10/21,02N,P156,21.60,95.70,3.90,4,Simply supported,
+P156_02N_B3034A,-,Bridge,Bridge,2012/10/21,02N,P156,22.50,42.40,16.40,3,Continuous,
+P156_02N_B3034B,-,Bridge,Bridge,2012/10/21,02N,P156,22.50,42.40,17.40,3,Continuous,
+P156_02N_B3038,-,Bridge,Bridge,2012/10/21,02N,P156,25.30,86.46,5.60,4,Simply supported,
+P156_02N_B3040,-,Bridge,Bridge,2012/10/21,02N,P156,26.60,68.70,16.40,4,Simply supported,
+P156_02N_B3062,-,Bridge,Bridge,2012/10/19,02N,P156,4.00,72.80,14.40,4,Simply supported,
+P156_02N_B3063A,Klip River,Bridge,Bridge,2012/10/20,02N,P156,4.20,20.80,17.30,3,Simply supported,
+P156_02N_B3063B,Klip River,Bridge,Bridge,2012/10/20,02N,P156,4.20,20.80,17.10,3,Simply supported,
+P156_02N_B3064,-,Bridge,Bridge,2012/10/20,02N,P156,6.50,112.00,13.90,5,Simply supported,
+P156_02N_B3065,-,Bridge,Bridge,2012/10/20,02N,P156,8.50,82.80,13.10,4,Simply supported,
+P156_02N_B3066,-,Bridge,Bridge,2012/10/20,02N,P156,11.90,82.20,14.00,4,Simply supported,
+P156_02N_B3067,-,Bridge,Bridge,2012/10/20,02N,P156,14.38,82.10,14.10,4,Simply supported,
+P156_02N_B3068A,-,Bridge,Bridge,2012/10/20,02N,P156,15.40,24.50,17.00,3,Simply supported,
+P156_02N_B3068B,-,Bridge,Bridge,2012/10/20,02N,P156,15.40,24.50,17.00,3,Simply supported,
+P156_02N_B3069,-,Bridge,Bridge,2012/10/20,02N,P156,16.40,82.00,14.00,4,Simply supported,
+P156_02N_B3165A,-,Bridge,Bridge,2012/10/23,02N,P156,29.20,43.80,18.20,2,Simply supported,
+P156_02N_B3165B,-,Bridge,Bridge,2012/10/23,02N,P156,29.20,43.80,18.20,2,Simply supported,
+P156_02N_B3166A,-,Bridge,Bridge,2012/10/24,02N,P156,30.30,127.00,18.50,5,Continuous,
+P156_02N_B3166B,-,Bridge,Bridge,2012/10/24,02N,P156,30.30,122.70,18.40,5,Continuous,
+P156_02N_B3169,-,Bridge,Bridge,2012/10/23,02N,P156,30.30,68.50,12.50,4,Continuous,
+P156_02N_B3172A,-,Bridge,Bridge,2012/10/24,02N,P156,31.80,72.90,18.20,4,Cantilever with drop in spans,
+P156_02N_B3172B,-,Bridge,Bridge,2012/10/24,02N,P156,31.90,72.20,18.30,4,Cantilever with drop in spans,
+P156_02N_B3173A,-,Bridge,Bridge,2012/10/24,02N,P156,32.35,26.50,23.60,1,Simply supported,
+P156_02N_B3173B,-,Bridge,Bridge,2012/10/24,02N,P156,32.35,26.00,18.80,1,Simply supported,
+P156_02N_B3174A,-,Bridge,Bridge,2012/10/25,02N,P156,32.75,77.10,18.20,4,Simply supported,
+P156_02N_B3174B,-,Bridge,Bridge,2012/10/25,02N,P156,32.75,77.10,18.20,4,Simply supported,
+P156_02N_B3175,-,Bridge,Bridge,2012/10/25,02N,P156,34.44,67.60,32.20,2,Continuous,
+P156_02N_B3177B,-,Bridge,Bridge,2012/10/25,02N,P156,35.10,75.30,47.30,3,Simply supported,
+P156_02N_B3179,-,Bridge,Bridge,2012/10/25,02N,P156,0.80,85.80,18.50,2,Continuous,
+P156_02N_B3180,-,Bridge,Bridge,2012/10/25,02N,P156,37.30,122.40,13.40,5,Continuous,
+P156_02N_B3749,-,Bridge,Bridge,2012/10/24,02N,P156,30.30,54.60,13.10,2,Cantilever with drop in spans,
+P156_02N_B4820A,-,Bridge,Bridge,2012/10/25,02N,P156,37.30,154.30,14.00,6,Continuous,
+P156_02N_B4820B,-,Bridge,Bridge,2012/10/25,02N,P156,37.30,144.40,14.20,6,Continuous,
+P156_02N_B4821,-,Bridge,Bridge,2012/10/26,02N,P156,37.30,108.40,9.80,4,Continuous,
+P156_02N_B4822A,-,Bridge,Bridge,2012/10/26,02N,P156,37.30,80.10,13.90,3,Continuous,
+P156_02N_B4822B,-,Bridge,Bridge,2012/10/26,02N,P156,37.30,89.40,13.90,3,Continuous,
+P156_02N_B4823,-,Bridge,Bridge,2012/10/26,02N,P156,37.30,49.40,9.80,3,Continuous,
+P156_03N_B689,Riet River,Bridge,Bridge,2012/10/26,03N,P156,10.85,25.10,9.69,1,Arch,
+P156_04_B4260,Road P156-4 over Vaal River,Bridge,Bridge,2000/01/01,4,P156,,300.02,33.28,1,,
+P158_01N_B2227A,Freedom Park Access,Bridge,Bridge,2012/11/07,01N,P158,0.60,35.00,12.90,3,Frame,1966/01/02
+P158_01N_B2227B,Freedom Park Access,Bridge,Bridge,2012/11/07,01N,P158,0.60,35.00,16.60,3,Frame,1966/01/02
+P158_01N_B2228A,M7 Eeufees Road,Bridge,Bridge,2012/11/07,01N,P158,2.30,152.20,13.10,5,Continuous,1966/01/02
+P158_01N_B2228B,M7 Eeufess Road,Bridge,Bridge,2012/11/07,01N,P158,2.30,163.00,15.50,5,Continuous,1966/01/02
+P158_01N_B2299A,N14 NBC over M34,Bridge,Bridge,2012/11/08,01N,P158,9.10,32.00,12.50,3,Continuous,1967/01/02
+P158_01N_B2299B,N14 SBC over M34,Bridge,Bridge,2012/11/08,01N,P158,9.15,32.20,12.50,3,Continuous,1967/01/02
+P158_01N_B2300A,N14 NBC over Hennops River,Bridge,Bridge,2012/11/08,01N,P158,10.22,36.50,13.20,2,Continuous,1967/01/02
+P158_01N_B2300B,N14 SBC over Hennops River Bridge,Bridge,Bridge,2012/11/08,01N,P158,10.23,36.50,13.20,2,Continous and simply supported,1967/01/02
+P158_01N_B2301,Edward Rd Bridge at km12.18,Bridge,Bridge,2012/11/08,01N,P158,12.18,54.80,12.70,2,Simply supported,
+P158_01N_B2348,Bridge at Route km 3.7,Bridge,Bridge,2012/11/07,01N,P158,3.70,55.30,4.05,2,Cable,
+P158_01N_B2384,Bridge at Route km 4.7,Bridge,Bridge,2012/11/07,01N,P158,4.70,50.05,13.40,2,Simply supported,1966/01/02
+P158_01N_B4869A,K103 over P158-1,Bridge,Bridge,2012/11/01,01N,P158,5.60,74.00,14.00,2,Cellular,1986/01/02
+P158_01N_B5208,M25 Hendrik Verwoerd Drive Overpass,Bridge,Bridge,2012/11/08,01N,P158,11.95,78.70,14.20,2,Continuous,
+P158_01N_IDB2124,Bridge at Route km 6.1,Bridge,Bridge,2012/11/07,01N,P158,6.10,76.00,11.80,4,Continous and simply supported,
+P158_1_B5098,Soweto/R554 I/C: R554 Overpass,Bridge,Bridge,2011/10/20,1,P186,91.49,161.40,14.05,6,Continuous,1980/07/01
+P158_2_B2947A,Crocodile River Bridge A (EB),Bridge,Bridge,2011/11/23,2,P158,2.98,65.00,11.46,3,Simply supported,1978/07/01
+P158_2_B2947B,Crocodile River Bridge B (WB),Bridge,Bridge,2011/11/23,2,P158,3.03,65.00,11.46,3,Simply supported,1978/07/01
+P158_2_B3298A,Driefontein Farm Access Underpass (N014EB),Bridge,Bridge,2011/11/23,2,P158,3.89,33.90,13.46,3,Continuous,1978/07/01
+P158_2_B3298B,Driefontein Farm Access Underpass (N014WB),Bridge,Bridge,2011/11/23,2,P158,3.94,33.90,13.46,3,Continuous,1978/07/01
+P158_2_B3299A,Beyers Naude Dr (M5) I/C: Beyers Naude Dr (M5) NB Overpass,Bridge,Bridge,2011/11/29,2,P158,5.52,141.00,13.39,6,Continuous,1978/07/01
+P158_2_B3299B,Beyers Naude Dr (M5) I/C: Beyers Naude Dr (M5) SB Overpass,Bridge,Bridge,2011/11/29,2,P158,5.56,141.00,13.39,6,Continuous,1978/07/01
+P158_2_B3300,Elandsdrif Rd Overpass,Bridge,Bridge,2011/11/29,2,P158,7.75,84.90,13.84,4,Continuous,1978/07/01
+P158_2_B3301A,Sunset Drive Underpass (N14EB),Bridge,Bridge,2011/11/29,2,P158,9.15,33.20,16.15,3,Continuous,1978/07/01
+P158_2_B3301B,Sunset Drive Underpass (N14WB),Bridge,Bridge,2011/11/29,2,P158,9.16,33.20,16.15,3,Continuous,1978/07/01
+P158_2_B3302,Jukskei Arch Bridge,Bridge,Bridge,2011/11/29,2,P158,10.70,13.10,82.62,1,Arch,1978/07/01
+P158_2_B3303A,Nooitgedacht Farm Road Underpass (N14 EB),Bridge,Bridge,2011/11/29,2,P158,12.65,30.30,16.14,3,Continuous,1978/07/01
+P158_2_B3303B,Nooitgedacht Farm Road Underpass (N14 WB),Bridge,Bridge,2011/11/29,2,P158,12.64,30.30,16.14,3,Continuous,1978/07/01
+P158_2_B3304A,Malibongwe Dr (R512) I/C: Malibongwe Dr (R512) Overpass,Bridge,Bridge,2011/11/29,2,P158,13.34,123.50,17.17,4,Continuous,1974/01/02
+P158_2_B3304B,Malibongwe Drive (R512) Interchange Overpass,Bridge,Bridge,2011/11/29,2,P158,13.34,136.80,22.30,4,Continuous,2010/01/02
+P158_2_B3305,Road D1027 Overpass,Bridge,Bridge,2011/11/29,2,P158,15.52,84.50,13.51,4,Continuous,1978/07/01
+P158_2_B3344,Old Johannesburg Road,Bridge,Bridge,2011/11/25,2,P158,40.70,86.00,16.46,4,Simply supported,1977/01/02
+P158_2_B3345A,R55 Ic Bridge A,Bridge,Bridge,2011/11/25,2,P158,34.70,92.60,13.41,4,Continuous,
+P158_2_B3345B,R55 Ic Bridge B,Bridge,Bridge,2011/11/25,2,P158,34.70,92.60,17.07,4,Continuous,1977/01/02
+P158_2_B3348,Rooihuiskraal Overpass,Bridge,Bridge,2011/11/25,2,P158,38.60,64.00,14.02,2,Continuous,1976/01/02
+P158_2_B3422A,Olievenhoutbos Subway A,Bridge,Bridge,2011/11/25,2,P158,36.20,34.40,21.82,3,Frame,
+P158_2_B3422B,Olievenhoutbos Subway B,Bridge,Bridge,2011/11/25,2,P158,36.20,34.40,21.82,3,Frame,
+P158_2_B3512A,Jukskei River Bridge A (N014EB),Bridge,Bridge,2011/11/29,2,P158,18.42,114.90,16.34,4,Continuous,1975/01/02
+P158_2_B3512B,Jukskei River Bridge B (N014WB),Bridge,Bridge,2011/11/29,2,P158,18.45,114.90,16.34,4,Continuous,1975/01/02
+P158_2_B3513,Access Road Overpass,Bridge,Bridge,2011/11/24,2,P158,22.17,109.60,11.08,4,Continuous,
+P158_2_B3514,R114 Overpass,Bridge,Bridge,2011/11/24,2,P158,22.60,99.30,17.35,4,Continuous,
+P158_2_B3515A,Diepsloot I/C Bridge B,Bridge,Bridge,2011/11/24,2,P158,26.40,97.20,16.31,4,Continuous,
+P158_2_B3515B,Diepsloot I/C Bridge A,Bridge,Bridge,2011/11/24,14E,N014,26.30,97.20,16.31,4,Continuous,1975/01/02
+P158_2_B3517,Knoppieslaagte Road Overpass,Bridge,Bridge,2011/11/25,2,P158,29.90,110.70,13.65,4,Continuous,
+P158_2_B3518,Monument Drive Overpass,Bridge,Bridge,2011/11/25,2,P158,32.80,94.10,13.65,4,Continuous,
+P158_2_B5551,Total Petroport Pedestrian Bridge,Bridge,Bridge,2011/12/01,2,P158,17.02,161.60,2.50,11,Frame,1978/07/01
+P159_01N_B3788A,3788(A) over Daspoort to Mountainview Rail,Bridge,Bridge,2012/10/05,01N,P159,0.46,95.30,13.90,6,Continous and simply supported,1983/01/02
+P159_01N_B3788B,3788(B) over Daspoort to Mountainview Rail,Bridge,Bridge,2012/10/05,01N,P159,0.46,92.90,12.90,6,Continous and simply supported,
+P159_01N_B3789,3789 Hendrik Street over P159-1,Bridge,Bridge,2012/10/08,01N,P159,1.45,169.00,17.95,7,Continuous,1983/01/02
+P159_01N_B3790,3790 Dorp Street over P159-1,Bridge,Bridge,2012/10/08,01N,P159,2.59,79.60,17.65,3,Continuous,1983/01/02
+P159_01N_B3792A,3792(A) Bremer Street North over P159-1,Bridge,Bridge,2012/10/08,01N,P159,3.52,129.50,14.75,4,Continuous,1983/01/02
+P159_01N_B3792B,3792(B) Bremer Steet North over P159-1,Bridge,Bridge,2012/10/08,01N,P159,3.54,129.50,14.55,4,Continuous,1983/01/02
+P159_01N_B4040,NB01 Lady Selborne Pedestrian Bridge,Bridge,Bridge,2012/10/08,01N,P159,4.28,146.60,3.78,6,Continous and simply supported,
+P159_01N_B4299A,R.W.B. Pipe over Canal,Bridge,Bridge,2000/01/01,1,P159,1.72,25.14,1.40,1,,1985/01/01
+P159_01N_B4299B,Road P159-1 over R.W.B. Pipes,Bridge,Bridge,2000/01/01,1,P159,1.72,2.30,82.30,1,,1983/01/01
+P16_01N_B1424,Steenkoppie Bridge 1424,Bridge,Bridge,2012/10/09,01N,P16,27.80,19.00,9.70,3,Simply supported,
+P16_01N_B269,Steenkoppie Bridge 269,Bridge,Bridge,2012/10/09,01N,P16,30.10,19.40,14.50,3,Simply supported,1980/01/02
+P16_01N_B397,Thorndale Bridge 397,Bridge,Bridge,2012/10/04,01N,P16,37.40,17.80,11.50,5,Simply supported,
+P162_01N_B4179,P162/1-01,Bridge,Bridge,2012/10/17,01N,P162,2.69,45.60,14.25,3,Simply supported,1980/01/02
+P174_01N_B2119,River Bridge over the Boesman River,Bridge,Bridge,2012/10/04,01N,P174,18.00,33.00,10.30,4,Simply supported,1984/01/02
+P175_01N_B1877,-,Bridge,Bridge,2012/10/27,01N,P175,5.00,24.30,9.90,3,Simply supported,
+P175_01N_B1878,-,Bridge,Bridge,2012/10/27,01N,P175,7.50,19.60,10.00,3,Simply supported,
+P186_1_B1723A,Klip River Bridge A,Bridge,Bridge,2011/10/20,1,P186,90.41,33.20,12.98,4,Simply supported,1980/07/01
+P186_1_B1723B,Klip River Bridge B,Bridge,Bridge,2011/10/19,1,P186,90.41,33.20,12.98,4,Simply supported,1980/07/01
+P186_1_B1724A,Midway-Lenz Road over Rail (N12NB),Bridge,Bridge,2011/10/20,1,P186,91.03,30.60,15.80,2,Simply supported,1980/07/01
+P186_1_B1724B,Midway-Lenz Road over Rail (N12SB),Bridge,Bridge,2011/10/20,1,P186,94.49,28.40,15.03,2,Simply supported,1980/07/01
+P186_1_B1725A,Protea South Rail Bridge A,Bridge,Bridge,2011/10/17,1,P186,91.22,11.80,16.00,1,Simply supported,1980/07/01
+P186_1_B1725B,Protea South Rail Bridge B,Bridge,Bridge,2011/10/20,1,P186,94.71,10.20,19.15,1,Simply supported,1980/07/01
+P186_1_B1726A,St Marks St. Underpass,Bridge,Bridge,2011/10/19,1,P186,94.78,13.00,26.80,1,Frame,1979/07/01
+P186_1_B1726B,St Marks Street Underpass (N12SB),Bridge,Bridge,2011/10/19,1,P186,98.28,12.90,13.70,1,Frame,1979/07/01
+P186_1_B1726C,St Marks Street Underpass (N12SB offramp),Bridge,Bridge,2011/10/19,1,P186,98.29,12.70,29.98,1,Frame,1979/07/01
+P186_1_B1727A,Klipspruit Bridge A,Bridge,Bridge,2011/10/18,1,P186,94.99,95.00,15.70,10,Simply supported,1979/07/01
+P186_1_B1727B,Klipspruit Bridge B,Bridge,Bridge,2012/01/09,1,P186,98.51,93.80,13.20,10,Simply supported,1979/07/01
+P186_1_B1728,East Road Overpass,Bridge,Bridge,2011/10/18,1,P186,95.92,55.80,11.90,4,Simply supported,1979/07/01
+P186_1_B1729A,Concorde Road Underpass (N12NB),Bridge,Bridge,2011/10/18,1,P186,97.39,50.00,15.42,4,Simply supported,1979/07/01
+P186_1_B1729B,Concorde Road Underpass (N12SB),Bridge,Bridge,2011/11/03,1,P186,100.89,11.89,13.14,1,Simply supported,1980/07/01
+P186_1_B3945A,Golden Highway (R553) Overpass Bridge A,Bridge,Bridge,2011/10/17,1,P186,99.23,77.00,14.35,2,Continuous,1979/07/01
+P186_1_B3945B,Golden Highway (R553) Overpass Bridge B,Bridge,Bridge,2011/10/17,1,P186,99.26,77.80,14.35,2,Continuous,1966/01/01
+P186_1_B4101,Lizard Street Overpass,Bridge,Bridge,2011/10/19,1,P186,91.98,64.50,14.20,2,Continuous,1980/07/01
+P186_1_B4102A,Lenasia I/C: Klipspruit Valley (M10) Bridge A (N12 EB),Bridge,Bridge,2011/10/19,1,P186,94.25,52.40,15.44,2,Continuous,1979/07/01
+P186_1_B4102B,Lenasia I/C: Klipspruit Valley (M10) Bridge B (N12 WB),Bridge,Bridge,2011/10/19,1,P186,97.75,52.60,15.44,2,Continuous,1979/07/01
+P186_1_B5512,Eldorado Park Pedestrian Bridge,Bridge,Bridge,2011/10/18,1,P186,96.63,91.40,2.50,4,Continous and simply supported,1979/07/01
+P2_04N_B142,142 over Swartspruit,Bridge,Bridge,2012/11/22,04N,P2,16.75,27.40,13.22,4,Simply supported,
+P2_05N_B1658,Edendale River Bridge,Bridge,Bridge,2012/11/07,05N,P2,12.20,19.00,11.70,2,Simply supported,
+P2_05N_B1787,River Bridge,Bridge,Bridge,2012/11/07,05N,P2,7.60,32.00,10.20,2,Continuous,
+P2_05N_B3204,Moraleta River Bridge 2,Bridge,Bridge,2012/10/26,05N,P2,0.35,13.40,27.50,3,Cellular,1986/01/02
+P2_05N_B3205,Moraleta River Bridge 1,Bridge,Bridge,2012/10/26,05N,P2,0.85,28.30,62.40,3,Cellular,1986/01/02
+P2_05N_B4240,Rail Bridge,Bridge,Bridge,2012/11/07,05N,P2,9.85,38.20,12.80,3,Simply supported,
+P200_01N_B3794,3794 Start P200-1,Bridge,Bridge,2012/10/09,01N,P200,0.01,123.00,12.50,4,Continuous,1981/01/02
+P200_01N_B4000,4000 over Sarel Ave,Bridge,Bridge,2012/10/09,01N,P200,0.84,54.10,15.30,2,Continuous,1981/01/02
+P200_01N_B4001,4001 over Sarel Ave,Bridge,Bridge,2012/10/09,01N,P200,0.84,64.30,23.50,2,Continuous,1981/01/02
+P200_01N_B4002A,4002A over 7th Ave,Bridge,Bridge,2012/10/09,01N,P200,2.50,52.10,18.50,3,Continuous,1981/01/02
+P200_01N_B4002B,4002B over 7th Ave,Bridge,Bridge,2012/10/09,01N,P200,2.50,51.90,24.60,3,Continuous,1981/01/02
+P200_01N_B4003A,4003A Brits Rd over P200-1,Bridge,Bridge,2012/10/09,01N,P200,3.10,76.40,14.60,2,Continuous,1981/01/02
+P200_01N_B4003B,4003B Brits Rd over R200-1,Bridge,Bridge,2012/10/09,01N,P200,3.07,76.40,14.35,2,Continuous,1981/01/02
+P200_01N_B4004A,NB03 over Daan De Wet Nel Dr,Bridge,Bridge,2012/10/11,01N,P200,6.44,55.00,18.45,2,Continuous,1983/01/02
+P200_01N_B4004B,NB02 over Daan De Wet Nel Dr,Bridge,Bridge,2012/10/11,01N,P200,6.44,55.00,18.25,2,Continuous,1983/01/02
+P200_01N_B4054A,NB06 over Akasiaboom to Winternest rail,Bridge,Bridge,2012/10/11,01N,P200,7.22,76.40,18.70,3,Simply supported,1983/01/02
+P200_01N_B4054B,NB07 over Akasiaboom to Winternest rail,Bridge,Bridge,2012/10/15,01N,P200,7.22,73.70,21.70,3,Simply supported,1983/01/02
+P200_01N_B4116A,4116A R566 over P200-1,Bridge,Bridge,2012/10/15,01N,P200,8.21,123.80,20.34,4,Continuous,1983/01/02
+P200_01N_B4117,NB09 Agricultural overpass over P200-1,Bridge,Bridge,2012/10/15,01N,P200,9.61,76.40,5.30,2,Continuous,1983/01/02
+P200_01N_B4118A,P200/1 (R80) over Kaalplaasspruit,Bridge,Bridge,2012/10/15,01N,P200,12.43,24.40,20.40,4,Cellular,1980/01/02
+P200_01N_B4118B,P200/1 (R80) over Kaalplaasspruit,Bridge,Bridge,2012/10/16,01N,P200,12.43,24.50,18.03,4,Cellular,1983/01/02
+P200_01N_B4119,4119 Hebron Rd over P200-1,Bridge,Bridge,2012/10/16,01N,P200,13.68,84.00,12.90,2,Continuous,1980/01/02
+P200_01N_B4159,NB10 Wildebeesthoek to Pienaarspoort Rail,Bridge,Bridge,2012/10/15,01N,P200,10.37,70.20,10.12,2,Continuous,1980/01/02
+P200_01N_B4598,4598 1st Avenue over P200-1,Bridge,Bridge,2012/10/11,01N,P200,4.09,76.20,14.50,2,Continuous,1983/01/02
+P200_01N_B5489,5489 Ruth First Rd over P200-1,Bridge,Bridge,2012/10/16,01N,P200,16.72,87.40,14.05,2,Continuous,1998/01/02
+P200_01N_IDB0665,NB04 over Brits to Onderstepoort Rail,Bridge,Bridge,2012/10/11,01N,P200,6.73,24.00,18.70,1,Simply supported,1983/01/02
+P200_01N_IDB0789,NB05 over Brits to Onderstepoort Rail,Bridge,Bridge,2012/10/11,01N,P200,6.73,24.00,18.60,1,Simply supported,1983/01/02
+P200_01N_IDB0793,NB08 R566 over P200-1,Bridge,Bridge,2012/10/15,01N,P200,8.18,123.80,20.39,4,Continuous,1983/01/02
+P205_01N_B2192,Van der Linde Road Bridge,Bridge,Bridge,2012/11/16,01N,P205,1.20,63.00,16.70,3,Continuous,
+P205_01N_B4067A,Bradford Road Bridge (4067A),Bridge,Bridge,2012/11/14,01N,P205,0.40,25.80,15.80,2,Continuous,1978/01/02
+P205_01N_B4067B,Bradford Road Bridge (4067B),Bridge,Bridge,2012/11/14,01N,P205,0.40,25.00,15.80,2,Continuous,1978/01/02
+P205_01N_B4067C,Bradford Road Underpass,Bridge,Bridge,2012/11/14,01N,P205,0.40,26.80,13.10,2,Continuous,1978/01/02
+P205_01N_IDB2470,Bradford Road Underpass,Bridge,Bridge,2012/11/14,01N,P205,0.40,25.20,13.10,2,Continuous,1978/01/02
+P206_01N_B1524,Woodmead Drive Overpass (Old Bridge),Bridge,Bridge,2012/11/22,01N,P206,6.90,95.80,11.00,4,Simply supported,
+P206_01N_B3148,Marlboro Drive Underpass,Bridge,Bridge,2012/11/21,01N,P206,3.80,37.90,38.00,3,Continuous,
+P206_01N_B3149,Grayston Drive Overpass,Bridge,Bridge,2012/11/15,01N,P206,1.60,75.30,29.20,4,Continuous,
+P206_01N_B3321,Boero Road Underpass,Bridge,Bridge,2012/11/21,01N,P206,0.90,31.20,42.80,3,Continuous,
+P206_01N_B3401B,South Road Underpass ,Bridge,Bridge,2012/11/21,01N,P206,4.20,39.10,45.00,3,Continuous,
+P206_01N_B4440,Wendywood Kelvin Pedestrian Bridge,Bridge,Bridge,2012/11/21,01N,P206,5.40,147.30,2.70,8,Cantilever with drop in spans,1983/01/02
+P206_01N_B4441,Pedestrian Bridge at Barlow Park,Bridge,Bridge,2012/11/21,01N,P206,3.00,109.00,2.80,7,Cantilever with drop in spans,1983/01/02
+P206_01N_B5245,Woodmead New Bridge (5245),Bridge,Bridge,2012/11/22,01N,P206,6.80,122.90,14.10,4,Continuous,
+P206_01N_IDB2609,Pedestrian Bridge at the Wendywood Shopping Centre,Bridge,Bridge,2012/11/21,01N,P206,4.70,168.50,2.80,13,Cantilever with drop in spans,
+P207_01N_B2150,Tributary of Elands River,Bridge,Bridge,2012/10/24,01N,P207,36.10,37.80,12.40,3,Simply supported,1979/01/02
+P207_01N_B2152,Premier River Bridge,Bridge,Bridge,2012/11/07,01N,P207,5.80,19.00,9.30,1,Simply supported,
+P207_01N_B4108,Elands River Bridge,Bridge,Bridge,2012/10/24,01N,P207,28.50,47.00,13.80,3,Simply supported,1979/01/02
+P212_01N_B4215,"ROAD OVER ROAD, NASMITH OVER ROAD P212/1",Bridge,Bridge,2012/10/16,01N,P212,0.80,74.00,13.30,2,Continuous,1981/01/02
+P212_01N_B4718,"PIPE BRIDGE OVER ROAD, PIPE BRIDGE OVER P212/1",Bridge,Bridge,2012/10/16,01N,P212,0.70,72.00,2.90,2,Continuous,1985/01/02
+P212_01N_B4845,"PEDESTRIAN OVER ROAD, PEDSTRIAN OVER P212/1",Bridge,Bridge,2012/10/16,01N,P212,1.00,103.00,2.90,4,Cantilever with drop in spans,1985/01/02
+P212_01N_IDB2491,Lower Germiston Road Overpass,Bridge,Bridge,2012/11/14,01N,P212,2.00,51.70,15.30,2,Simply supported,
+P212_01N_IDB2501,Cleveland Road Overpass,Bridge,Bridge,2012/11/14,01N,P212,0.70,55.50,24.20,2,Simply supported,
+P219_01N_IDB0978,P219/1-02,Bridge,Bridge,2012/10/18,01N,P219,4.59,84.00,13.90,4,Simply supported,
+P219_01N_IDB1873,P219/1-01,Bridge,Bridge,2012/10/17,01N,P219,12.60,84.00,13.10,4,Simply supported,
+P230_01N_B5199,5199 over Ga-Rankuwa to Pienaarspoort Rail,Bridge,Bridge,2012/10/17,01N,P230,0.10,32.00,24.55,3,Simply supported,
+P24_01N_B1575,P24/1 over the Rietspruit,Bridge,Bridge,2012/10/27,01N,P24,60.22,16.60,8.51,2,Simply supported,
+P24_01N_B2168,P24/01-01,Bridge,Bridge,2012/10/10,01N,P24,0.60,12.80,11.90,2,Simply supported,
+P24_01N_B2169,P24/1-02,Bridge,Bridge,2012/10/09,01N,P24,11.50,20.00,11.80,3,Simply supported,
+P241_01N_B1275,P241/1-01,Bridge,Bridge,2012/10/18,01N,P241,10.07,15.00,12.00,3,Simply supported,1966/01/02
+P241_01N_B2094,P241/1-02,Bridge,Bridge,2012/10/30,01N,P241,5.40,60.00,5.75,4,Simply supported,
+P242_01N_B414,Road Bridge over Boesmanspruit,Bridge,Bridge,2012/10/05,01N,P242,8.30,35.30,12.10,4,Simply supported,1967/01/02
+P243_01N_B4949,Road P243/1 over river,Bridge,Bridge,2012/10/04,01N,P243,8.20,12.40,12.30,1,Continuous,
+P249_01N_B637,Hennops River Bridge,Bridge,Bridge,2012/10/30,01N,P249,11.90,27.80,12.80,4,Continous and simply supported,1970/01/02
+P249_01N_B649,Hennops River Bridge,Bridge,Bridge,2012/10/30,01N,P249,13.80,18.10,8.20,1,Arch,
+P249_01N_B760,Hennops River Bridge,Bridge,Bridge,2012/10/29,01N,P249,7.60,18.00,10.80,3,Simply supported,1970/01/02
+P249_01N_B792,Bridge 792 on R511,Bridge,Bridge,2012/10/30,01N,P249,17.60,20.25,12.10,3,Continuous,1972/01/02
+P249_01N_IDB1804,Hennops River Bridge,Bridge,Bridge,2012/10/31,01N,P249,3.30,0.00,10.80,3,Continous and simply supported,
+P25_01N_B1108,Road P25/1 over river,Bridge,Bridge,2012/10/02,01N,P25,4.50,20.00,12.70,2,Simply supported,
+P25_01N_B2068,Road P25-1 over rail,Bridge,Bridge,2012/10/09,01N,P25,1.00,69.20,16.75,3,Simply supported,1969/01/02
+P25_01N_B767,Klip River,Bridge,Bridge,2012/10/28,01N,P25,2.31,27.50,7.20,4,Simply supported,
+P25_01N_B809,Road P25/1 over river,Bridge,Bridge,2012/10/02,01N,P25,42.20,16.90,12.60,1,Simply supported,1972/01/02
+P252_01N_BL06-0VP-090,P252-1 Over Guatrain,Bridge,Bridge,2012/10/30,01N,P252,2.50,10.00,13.60,1,Cellular,2009/01/02
+P27_01N_B1270,Road P27/1 over stream,Bridge,Bridge,2012/10/01,01N,P27,1.00,33.40,12.50,2,Simply supported,1963/01/02
+P27_01N_B1271,Road p27/1 over Suikerbosrand river,Bridge,Bridge,2012/10/01,01N,P27,5.00,64.60,12.80,4,Simply supported,1963/01/02
+P27_01N_B1272,Road P27-1 over river,Bridge,Bridge,2012/10/01,01N,P27,1.00,20.00,12.90,2,Simply supported,1962/01/02
+P28_1_B2094z,Vlakplaas Bridge 2094,Bridge,Bridge,2012/10/10,1,P28,1.10,22.00,12.50,3,Simply supported,
+P3_6_B1971A,Midway-Bank Road over Rail (N12NB),Bridge,Bridge,2011/10/21,6,P3,85.59,50.55,12.33,3,Cellular,1963/07/01
+P3_6_B1971B,Midway-Bank Road over Rail (N12SB),Bridge,Bridge,2011/10/21,6,P3,90.22,50.55,12.50,3,Cellular,1963/07/01
+P31_01N_B4618,Rail bridge at route km 8.8,Bridge,Bridge,2012/10/30,01N,P31,8.80,86.30,6.00,4,Cellular,
+P36_01N_B2546,M10/K103 over P36/1,Bridge,Bridge,2012/11/06,01N,P36,9.11,67.20,15.40,4,Simply supported,1972/01/02
+P36_01N_B4436,Rail bridge,Bridge,Bridge,2012/10/23,01N,P36,50.10,85.00,10.50,4,Continuous,1983/01/02
+P36_03N_B2251,Road over Rail and Road Bridge in Devon,Bridge,Bridge,2012/10/02,03N,P36,0.30,74.00,18.20,6,Continous and simply supported,1980/01/02
+P38_01N_B237,MIDSTREAM KAAL RIVER BRIDGE,Bridge,Bridge,2012/10/31,01N,P38,17.10,31.00,7.50,5,Continous and simply supported,
+P38_01N_B2623A,VAN RIEBERK PARK STATION PEDESTRIAN BRIDGE,Bridge,Bridge,2012/10/16,01N,P38,37.75,15.87,3.24,1,Continous and simply supported,
+P38_01N_B3089,OLIFANTSFONTEIN TRAIN STATION BRIDGE,Bridge,Bridge,2012/10/31,01N,P38,23.05,31.20,17.30,3,Continous and simply supported,1975/01/02
+P38_01N_B4176,TEMBISA NORTH RAIL,Bridge,Bridge,2012/10/16,01N,P38,25.05,14.50,13.50,1,Frame,1979/01/02
+P38_01N_B4177,OAKMOOR RAIL BRIDGE,Bridge,Bridge,2012/10/16,01N,P38,25.40,103.00,11.00,4,Continous and simply supported,1982/01/02
+P38_01N_B824,IRENE KAAL RIVER BRIDGE,Bridge,Bridge,2012/10/31,01N,P38,13.50,30.00,7.50,4,Simply supported,
+P39_01N_B124,HERON RIVER BRIDGE ,Bridge,Bridge,2012/11/16,01N,P39,32.40,60.00,8.40,4,Frame,
+P39_01N_B1785,Hennops River Bridge 4,Bridge,Bridge,2012/10/31,01N,P39,11.38,19.80,11.80,1,Simply supported,1965/01/02
+P39_01N_B3206,Swartbooi River,Bridge,Bridge,2012/11/01,01N,P39,15.75,17.30,14.80,1,Continuous,1974/01/02
+P39_01N_B4690,"Road bridge at Route km 4,77",Bridge,Bridge,2012/11/01,01N,P39,4.77,67.00,6.10,2,Continuous,
+P39_01N_B712,(P39-1) over Crocodile River,Bridge,Bridge,2012/11/10,01N,P39,47.60,20.00,9.10,2,Simply supported,1940/01/02
+P4_01N_B1516A,"ROAD OVER RIVER, R103 OVER NATAL SPRUIT",Bridge,Bridge,2012/10/12,01N,P4,2.50,64.80,12.33,8,Simply supported,
+P4_01N_B1516B,"Road over river, R103 over Natal Spruit",Bridge,Bridge,2012/10/12,01N,P4,2.50,64.80,12.33,8,Simply supported,
+P4_01N_B4513,Rail over Road,Bridge,Bridge,2012/10/12,01N,P4,15.50,25.85,10.20,1,Simply supported,1985/01/02
+P4_01N_B5267,"ROAD OVER ROAD, BLACKREEF ROAD OVER HEIDELBERG ROAD",Bridge,Bridge,2012/10/15,01N,P4,1.90,81.35,14.50,4,Simply supported,
+P4_01N_B843B,RAIL OVER ROAD  Underpass R103 Northbound,Bridge,Bridge,2012/10/16,01N,P4,1.50,12.50,44.90,1,Simply supported,1955/01/02
+P4_01N_IDB1232,Road over Rail - Nederveen Hwy,Bridge,Bridge,2012/10/12,01N,P4,2.14,10.90,27.50,1,Simply supported,1958/01/02
+P4_01N_IDB1239,ROAD OVER ROAD,Bridge,Bridge,2012/10/12,01N,P4,2.11,17.80,27.50,1,Simply supported,1958/01/02
+P4_01N_IDB1497,Rail over Road P4/1,Bridge,Bridge,2012/10/11,01N,P4,2.00,20.90,10.60,2,Arch,1949/01/02
+P4_01N_IDB1498,Road P4-1 over river,Bridge,Bridge,2012/10/11,01N,P4,1.00,59.20,21.90,8,Simply supported,
+P4_01N_IDB1556,RAIL OVER ROAD  Underpass R103 Southbound,Bridge,Bridge,2012/10/16,01N,P4,1.50,11.90,31.20,1,Simply supported,1955/01/02
+P4_01N_IDB1741,Rail Bridge between N3 and Route D2544,Bridge,Bridge,2012/10/08,01N,P4,11.10,14.30,12.90,1,Simply supported,
+P4_02N_B1371,Road over Blesbokspruit,Bridge,Bridge,2012/10/01,02N,P4,1.00,30.00,27.80,1,Continuous,
+P4_02N_B1418,Road P4/2 over river,Bridge,Bridge,2012/10/01,02N,P4,1.00,15.30,13.05,3,Simply supported,
+P4_02N_B1419,Municipal road over P4/2,Bridge,Bridge,2012/11/05,02N,P4,1.00,25.90,12.90,2,Continuous,1955/01/02
+P4_02N_B1420,Municipal road over P4/2,Bridge,Bridge,2012/10/01,02N,P4,0.10,12.30,12.25,1,Continuous,1960/01/02
+P4_02N_B1519,Municipal road over P4/2,Bridge,Bridge,2012/10/01,02N,P4,1.00,26.10,12.10,2,Continuous,1962/01/02
+P4_02N_B153,Bridge over the Suikerbosrand River,Bridge,Bridge,2012/10/08,02N,P4,21.40,75.60,13.50,6,Simply supported,1986/01/02
+P41_01N_B4642,Rail over Road Bridge near Jameson Park,Bridge,Bridge,2012/10/10,01N,P41,27.40,76.70,14.90,3,Continuous,1986/01/02
+P41_01N_B4834,"River Bridge near Jameson Park, Heidelberg",Bridge,Bridge,2012/10/11,01N,P41,27.30,19.90,46.80,3,Continuous,1986/01/02
+P41_02_B1362,Road P41-2 over Vaal River,Bridge,Bridge,2000/01/01,1,P42,,195.20,3.05,1,,
+P41_02_B4306,Road P41-2 over R.W.B. Pipes,Bridge,Bridge,2000/01/01,2,P41,,10.61,25.39,1,,
+P41_02N_B1150,Road P41/2 over river,Bridge,Bridge,2012/10/03,02N,P41,23.00,20.00,12.70,1,Simply supported,
+P41_02N_B2693,Road P41/2 over river,Bridge,Bridge,2012/10/02,02N,P41,1.00,12.60,12.50,2,Simply supported,1969/01/02
+P41_02N_B2694,Road P41/2 over river,Bridge,Bridge,2012/10/03,02N,P41,1.00,20.00,12.60,2,Simply supported,
+P41_02N_B2695,Road P41/2 over groot river,Bridge,Bridge,2012/10/03,02N,P41,1.00,19.20,12.70,3,Simply supported,1969/01/02
+P41_02N_B2696,Road P41/2 over Blesbokspruit,Bridge,Bridge,2012/10/03,02N,P41,1.00,14.80,12.40,3,Simply supported,
+P41_02N_B2697,Road P41/2 over river,Bridge,Bridge,2012/10/03,02N,P41,36.60,18.80,12.50,3,Simply supported,1969/01/02
+P41_02N_B803,Road P41/2 over Suikerbosrand river,Bridge,Bridge,2012/10/02,02N,P41,1.00,57.90,12.30,7,Simply supported,1969/01/02
+P42_01N_B1237,P42/1-02,Bridge,Bridge,2012/10/31,01N,P42,13.37,7.40,12.50,1,Simply supported,1984/01/02
+P45_01N_B1076A,P45/1-01 South Bound,Bridge,Bridge,2012/10/18,01N,P45,7.66,11.00,12.80,1,Simply supported,1973/01/02
+P45_01N_B1076B,P45/1-01 North Bound,Bridge,Bridge,2012/10/18,01N,P45,5.85,11.00,12.20,2,Frame,1973/01/02
+P46_01N_B2145,Road P46-1 over rail and road,Bridge,Bridge,2012/10/10,01N,P46,10.80,64.00,12.50,6,Simply supported,1972/01/02
+P46_01N_B2378,Road P46-1 over rail,Bridge,Bridge,2012/10/11,01N,P46,3.00,25.00,12.20,1,Continuous,1965/01/02
+P5_01N_B1915,Rail over Road Bridge outside Vischkuil,Bridge,Bridge,2012/10/03,01N,P5,22.50,44.50,11.60,2,Continuous,
+P5_01N_B1916,Road over Rail Bridge outside Devon,Bridge,Bridge,2012/10/03,01N,P5,31.30,10.00,11.60,1,Simply supported,1965/01/02
+P5_01N_B4418,Boesmanspruit Bridge,Bridge,Bridge,2012/10/05,01N,P5,7.70,24.90,12.40,3,Continuous,
+P58_01N_B159A,Road over Rail Forsdick Rd  Eastbound,Bridge,Bridge,2012/10/14,01N,P58,0.90,72.45,13.60,4,Simply supported,1989/01/02
+P58_01N_B159B,Road over Rail Forsdick Rd  Westbound,Bridge,Bridge,2012/10/14,01N,P58,0.90,72.40,13.95,4,Simply supported,1989/01/02
+P58_01N_B2957,"Road over Road, Barry Marais/North Boundary, M43/R554",Bridge,Bridge,2012/10/15,01N,P58,10.70,40.40,14.40,2,Simply supported,1970/01/02
+P59_01N_B4660,P59/1-04,Bridge,Bridge,2012/11/01,01N,P59,1.52,68.00,10.00,4,Continous and simply supported,1986/01/02
+P59_01N_B628,P59/1-01,Bridge,Bridge,2012/10/30,01N,P59,8.20,6.60,32.50,1,Simply supported,1985/01/02
+P59_01N_IDB2021,P59/1-03,Bridge,Bridge,2012/10/30,01N,P59,13.14,50.00,6.60,2,Truss,
+P6_01N_B4203,unknown,Bridge,Bridge,2012/10/24,01N,P6,19.00,36.00,15.00,3,Simply supported,1979/01/02
+P6_01N_B4291,Bronkhorstspruit River bridge,Bridge,Bridge,2012/09/27,01N,P6,56.00,52.30,12.00,3,Continous and simply supported,1982/01/02
+P6_01N_B4469,RAIL BRIDGE,Bridge,Bridge,2012/11/23,01N,P6,37.00,40.50,13.90,3,Simply supported,1983/01/02
+P6_02N_B1269A,ROAD OVER RAIL  R23  SOUTHBOUND,Bridge,Bridge,2012/10/11,02N,P6,13.80,70.80,14.10,3,Continuous,2000/01/02
+P6_02N_B1269B,ROAD OVER RAIL  R23 NORTHBOUND,Bridge,Bridge,2012/10/11,02N,P6,13.80,72.15,13.46,3,Simply supported,1982/01/02
+P6_02N_B1478A,ROAD OVER RAIL MOREHILL RANGEVIEW RD OVER R1,Bridge,Bridge,2012/10/10,02N,P6,4.20,63.10,14.44,5,Continuous,1980/01/02
+P6_02N_B1478B,"ROAD OVER RAIL, MOREHILL RANGEVIEW OVER R1",Bridge,Bridge,2012/10/10,02N,P6,4.20,63.10,14.32,5,Continuous,1980/01/02
+P6_02N_B1479,RAIL OVER ROAD (R23),Bridge,Bridge,2012/10/09,02N,P6,0.13,27.60,22.70,2,Simply supported,1980/01/02
+P6_02N_B1733,ROAD OVER ABANDON RAIL,Bridge,Bridge,2012/10/10,02N,P6,5.50,48.50,23.08,5,Simply supported,
+P6_02N_B1969,Road over Rail,Bridge,Bridge,2012/10/11,02N,P6,27.00,31.15,12.30,3,Simply supported,1965/01/02
+P6_02N_B970,Road over Stream Spaarwaterspruit,Bridge,Bridge,2012/10/11,02N,P6,29.20,15.00,11.88,4,Cellular,1965/01/02
+P6_02N_IDB0981,"ROAD OVER RAIL, LANCASTER ROAD ",Bridge,Bridge,2012/10/09,02N,P6,4.00,51.00,16.43,5,Continuous,1980/01/02
+P60_01N_IDB2627,NB043 over Tributary to Sandrivier,Bridge,Bridge,2012/11/22,01N,P60,3.21,21.10,29.82,2,Cellular,
+P62_01N_IDB1992,NB027 over Sand River,Bridge,Bridge,2012/11/05,01N,P62,18.38,16.80,32.65,1,Simply supported,
+P66_01N_B5566A,Rietspruit River,Bridge,Bridge,2012/10/18,01N,P66,4.80,56.00,13.30,3,Continuous,2008/01/02
+P66_01N_B5566B,Rietspruit river,Bridge,Bridge,2012/10/18,01N,P66,4.80,56.00,13.30,3,Continuous,2008/01/02
+P66_01N_B5577A,Sesmyl River,Bridge,Bridge,2012/10/18,01N,P66,3.50,100.00,13.10,4,Simply supported,2012/01/02
+P66_01N_B5577B,Sesmyl River,Bridge,Bridge,2012/10/18,01N,P66,3.50,100.00,13.10,4,Simply supported,2012/01/02
+P66_01N_B817,JUSKEI RIVER BRIDGE,Bridge,Bridge,2012/11/07,01N,P66,23.90,31.50,25.00,3,Simply supported,
+P66_01N_IDB2048,NB032 over Tributary to Apies River,Bridge,Bridge,2012/11/07,01N,P66,4.61,12.20,15.10,1,Simply supported,
+P66_1_B3346,R55 Ic Ramp Bridge,Bridge,Bridge,2011/11/25,1,P66,34.50,123.80,13.41,4,Continuous,
+P66_1_B3347A,R55 I/C Ramp Bridge,Bridge,Bridge,2011/11/25,1,P66,34.70,46.80,13.41,3,Continuous,1977/01/02
+P66_1_B3347B,R55 Ic Ramp Bridge B,Bridge,Bridge,2011/11/25,1,P66,34.70,46.80,13.41,3,Continuous,
+P67_01N_B2832,Rail over Road Bridge between N12 and Modder Rd,Bridge,Bridge,2012/10/10,01N,P67,11.20,111.20,26.10,2,Continuous,1982/01/02
+P67_01N_B4058A,Road over abandoned Rail bridge at Dersley on R51,Bridge,Bridge,2012/10/07,01N,P67,6.90,71.10,13.30,4,Continous and simply supported,1982/01/02
+P67_01N_B4058B,Road over abandoned Rail at Dersley on R51,Bridge,Bridge,2012/10/07,01N,P67,6.90,71.10,13.30,4,Continous and simply supported,1982/01/02
+P67_01N_B4059A,Bridge over the Alexander Dam near Dersley,Bridge,Bridge,2012/10/06,01N,P67,6.60,43.80,13.35,2,Simply supported,1982/01/02
+P67_01N_B4059B,Bridge over Alexander Dam near Dersley,Bridge,Bridge,2012/10/06,01N,P67,6.60,43.80,13.35,2,Simply supported,1982/01/02
+P67_01N_B4078,unknown,Bridge,Bridge,2012/10/24,01N,P67,6.20,61.40,17.00,5,Continous and simply supported,1982/01/02
+P67_01N_B4114,Pipe Bridge between N12 & Modder Rd,Bridge,Bridge,2012/10/10,01N,P67,11.00,58.00,7.32,2,Continuous,1982/01/02
+P68_01N_B2806,Pomona River,Bridge,Bridge,2012/10/16,01N,P38,0.10,14.10,18.40,2,Simply supported,1969/01/02
+P69_01_B4072,Road P69-1 over R.W.B. Pipes,Bridge,Bridge,2000/01/01,1,P69,8.15,20.64,57.00,1,,1981/01/01
+P69_01_B4073,Road P69-1 over R.W.B. Pipes,Bridge,Bridge,2000/01/01,1,P69,6.46,28.50,41.40,1,,1980/01/01
+P69_01_B4076,Road P69-1 over R.W.B. Pipes,Bridge,Bridge,2000/01/01,1,P69,5.30,11.07,75.00,1,,1981/01/01
+P70_01N_B2701,KLEIN JUSKEI RIVER BRIDGE ON R564 WITKOPPEN ROAD,Bridge,Bridge,2012/11/19,01N,P70,14.80,27.00,17.40,3,Continous and simply supported,
+P70_01N_B292,Braamfontein Spruit,Bridge,Bridge,2012/11/19,01N,P70,5.15,20.00,12.80,5,Continous and simply supported,1977/01/02
+P70_01N_IDB2737,COCA COLA DOME PEDESTRIAN BRIDGE ,Bridge,Bridge,2012/11/16,01N,P70,19.03,100.00,7.40,7,Continous and simply supported,
+P71_01N_B761,LONEHILL JUSKEI RIVER BRIDGE ,Bridge,Bridge,2012/11/12,01N,D71,3.09,28.00,9.30,4,Continous and simply supported,
+P72_01_B3571,Road P72-1 over R.W.B. Pipes,Bridge,Bridge,2000/01/01,1,P72,5.60,9.29,53.09,1,,1977/01/01
+P72_01_B3572,Road P72-1 over R.W.B. Pipes,Bridge,Bridge,2000/01/01,1,P72,6.85,13.18,72.09,1,,1977/01/01
+P72_01_B3829,Road P72-1 over R.W.B. Pipes,Bridge,Bridge,2000/01/01,1,P72,10.10,24.13,70.00,1,,1976/01/01
+P72_01N_B3570A,-,Bridge,Bridge,2012/10/22,01N,P72,3.80,16.60,13.00,2,Cantilever with drop in spans,
+P72_01N_B3570B,-,Bridge,Bridge,2012/10/22,01N,P72,3.80,16.60,13.00,2,Simply supported,
+P72_01N_B4367,-,Bridge,Bridge,2012/10/21,01N,P72,13.92,26.80,21.60,1,Simply supported,
+P72_01N_B4400,"Rifle Range Road (M38) over Klipriver Road (M7, P72/1)",Bridge,Bridge,2012/10/26,01N,P72,1.00,54.40,25.50,2,Continuous,1985/01/02
+P72_01N_B5046A,Aspen Hills,Bridge,Bridge,2012/10/22,01N,P72,8.60,55.50,11.10,3,Cantilever with drop in spans,
+P72_01N_B5046B,Aspen Hills,Bridge,Bridge,2012/10/22,01N,P72,8.60,55.50,11.10,3,Cantilever with drop in spans,
+P73_01N_B1031,P73/1-01,Bridge,Bridge,2012/10/18,01N,P73,10.07,42.90,17.60,3,Simply supported,
+P73_01N_B1752,-,Bridge,Bridge,2012/10/29,01N,P73,37.60,80.60,10.49,4,Simply supported,
+P73_01N_B2206A,-,Bridge,Bridge,2012/10/28,01N,P73,17.40,28.80,16.00,3,Simply supported,
+P73_01N_B2206B,-,Bridge,Bridge,2012/10/28,01N,P73,17.40,28.80,15.80,3,Continuous,
+P73_01N_B5257A,-,Bridge,Bridge,2012/10/29,01N,P73,6.20,29.20,18.10,1,Simply supported,
+P73_01N_B5257B,-,Bridge,Bridge,2012/10/29,01N,P73,62.00,29.20,18.50,1,Simply supported,
+P74_01N_B1284,Hekpoort Bridge 1284,Bridge,Bridge,2012/10/03,01N,P74,19.60,12.70,8.90,1,Simply supported,
+P74_01N_B2749,Sterkfontein Bridge 2749,Bridge,Bridge,2012/10/03,01N,P74,2.70,19.90,12.30,3,Simply supported,
+P74_01N_B2750,Zwartkrans Bridge 2750,Bridge,Bridge,2012/10/03,01N,P74,3.20,24.00,12.30,3,Simply supported,
+P74_01N_B389,Hartbeeshoek Bridge 389,Bridge,Bridge,2012/10/03,01N,P74,15.60,14.80,12.10,4,Simply supported,
+P79_01N_B527,DIEPSLOOT RIVER BRIDGE ,Bridge,Bridge,2012/11/12,01N,P79,9.10,14.30,9.00,4,Continous and simply supported,
+P79_01N_B5518A,MONTE CASINO BRIDGE ON WILLIAM NICOL ,Bridge,Bridge,2012/11/12,01N,P79,2.13,51.10,18.00,2,Continous and simply supported,
+P79_01N_B5518B,MONTE CASINO BRIDGE ON WILLIAM NICOL ,Bridge,Bridge,2012/11/12,01N,P79,2.13,51.10,20.00,2,Continous and simply supported,
+P88_01N_B988A,-,Bridge,Bridge,2012/10/27,01N,P88,8.05,17.00,14.50,2,Simply supported,
+P88_01N_B988B,-,Bridge,Bridge,2012/10/27,01N,P88,8.05,17.40,14.20,2,Simply supported,
+P89_01N_B1016,Elandsfontein Bridge 1016,Bridge,Bridge,2012/10/11,01N,P89,11.80,18.20,4.45,1,Simply supported,
+P89_01N_B1901,Elandsfontein Bridge 1901,Bridge,Bridge,2012/10/11,01N,P89,10.50,29.10,11.30,3,Simply supported,
+P91_01N_B1110,Kaalfontein Train Station Bridge,Bridge,Bridge,2012/11/09,01N,P91,21.40,15.00,18.20,1,Simply supported,1961/01/02
+P91_01N_B3153,Modderfontein On Ramp Bridge,Bridge,Bridge,2012/10/11,01N,P91,6.70,133.00,16.00,4,Simply supported,1971/01/02
+P91_01N_B4648,Isando Railway Bridge,Bridge,Bridge,2012/10/11,01N,P91,11.20,103.50,12.00,5,Simply supported,1984/01/02
+P91_01N_B4649,Abandoned Railway Bridge repurposed to Pedestrian Bridge,Bridge,Bridge,2012/10/11,01N,P91,12.05,81.50,7.00,4,Continuous,1984/01/01
+P91_01N_B4729A,Isando Bridge,Bridge,Bridge,2012/10/11,01N,P91,12.10,59.50,21.20,2,Simply supported,1986/01/02
+P91_01N_B4729B,Isando Bridge,Bridge,Bridge,2012/10/11,01N,P91,12.10,60.00,21.20,2,Simply supported,
+P91_02N_B4183,unknown,Bridge,Bridge,2012/10/26,02N,P91,3.50,36.00,13.60,3,Simply supported,1979/01/02
+P95_01N_B1423,Groot River Bridge,Bridge,Bridge,2012/09/26,01N,P95,24.70,31.30,8.10,4,Simply supported,
+P95_01N_B4294,Railway & River Bridge,Bridge,Bridge,2012/10/16,01N,P95,6.20,227.00,11.70,9,Simply supported,1982/01/02
+P95_02N_B1634,Bridge number 1634,Bridge,Bridge,2012/09/24,02N,P95,23.00,27.00,7.80,3,Simply supported,
